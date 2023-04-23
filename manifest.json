@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack, BUT using PREMIUM-ONLY features - check readme!",
-  "version_number": "1.0.4",
+  "version_number": "1.0.5",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
@@ -19,7 +19,6 @@
     "Azumatt-ImFRIENDLY_DAMMIT-1.0.8",
     "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
     "Crystal-Pathfinder-2.0.7",
-    "Digitalroot-Digitalroots_Slope_Combat_Assistance-2.0.9",
     "FixItFelix-NoSkillDrain-1.0.1",
     "FixItFelix-RegenerativeNature-2.0.2",
     "Goldenrevolver-Instantly_Destroy_Boats_And_Carts-1.0.3",
