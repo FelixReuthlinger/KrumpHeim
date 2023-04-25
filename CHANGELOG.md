@@ -1,3 +1,4 @@
+* 1.0.10 -> dependencies updated
 * 1.0.9 -> 
     * further improved cutting table capacity
     * deletion of outdated configs and mods added

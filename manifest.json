@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack, BUT using PREMIUM-ONLY features - check readme!",
-  "version_number": "1.0.9",
+  "version_number": "1.0.10",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
@@ -11,7 +11,7 @@
     "Azumatt-AzuClock-1.0.0",
     "Azumatt-AzuContainerSizes-1.0.1",
     "Azumatt-AzuExtendedPlayerInventory-1.0.8",
-    "Azumatt-AzuHoverStats-1.0.7",
+    "Azumatt-AzuHoverStats-1.0.8",
     "Azumatt-AzuWorkbenchTweaks-1.0.1",
     "Azumatt-BetterWards-1.8.6",
     "Azumatt-Build_Camera_Custom_Hammers_Edition-1.1.3",
@@ -58,6 +58,7 @@
     "Smoothbrain-Tenacity-1.0.2",
     "Smoothbrain-Vitality-1.1.1",
     "thedefside-BetterUI_Reforged-2.4.2",
+    "ASharpPen-Spawn_That-1.2.5",
     "ValheimModding-Jotunn-2.11.5",
     "denikson-BepInExPack_Valheim-5.4.2105"
   ]
