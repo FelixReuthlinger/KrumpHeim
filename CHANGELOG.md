@@ -1,3 +1,7 @@
+* 1.0.7 ->
+    * improved spawners for lydit, hay, fishes, etc. (more frequent)
+    * improved farming, lumberjacking, building configs (more yield, level entry level for special skills)
+    * improved configs for conversion size and speed to add additional space for each killed boss, increased capacities, lowered production time
 * 1.0.6 -> 
     * changed empty bucket recipe until fixed in core
     * changed rune magic foundation to use player location height
