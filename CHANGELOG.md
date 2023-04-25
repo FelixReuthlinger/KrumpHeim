@@ -1,3 +1,6 @@
+* 1.0.9 -> 
+    * further improved cutting table capacity
+    * deletion of outdated configs and mods added
 * 1.0.8 -> fixed deletion and overrides
 * 1.0.7 ->
     * improved spawners for lydit, hay, fishes, etc. (more frequent)

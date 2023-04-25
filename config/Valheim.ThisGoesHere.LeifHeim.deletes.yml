@@ -1,4 +1,4 @@
-﻿PrintComment: ThisGoesHere cleans up the Krumpac configs to let them be regenerated
+﻿PrintComment: ThisGoesHere cleans up the Krumpac configs to let them be regenerated and delete outdated files and mods
 DeleteFile:
 - config/Datys.Datys_Professions.cfg
 - config/Krumpac_Praying_System.cfg
@@ -9,3 +9,4 @@ DeleteFile:
 - config/Krumpac.Krumpac_Sacrificing_Altars.cfg
 - config/Krumpac.Krumpac_Tribe_Ornaments.cfg
 - config/Krumpac.Krumpac_Weapon_Arsenal.cfg
+- config/Valheim.ThisGoesHere.LeifHeim.yml
