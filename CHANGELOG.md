@@ -1,3 +1,4 @@
+* 1.0.8 -> fixed deletion and overrides
 * 1.0.7 ->
     * improved spawners for lydit, hay, fishes, etc. (more frequent)
     * improved farming, lumberjacking, building configs (more yield, level entry level for special skills)

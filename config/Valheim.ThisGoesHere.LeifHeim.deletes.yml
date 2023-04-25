@@ -9,8 +9,3 @@ DeleteFile:
 - config/Krumpac.Krumpac_Sacrificing_Altars.cfg
 - config/Krumpac.Krumpac_Tribe_Ornaments.cfg
 - config/Krumpac.Krumpac_Weapon_Arsenal.cfg
-
-PrintComment: ThisGoesHere overwrites configs with changes
-CopyFile:
-- src: config/overrides/Krumpac.Krumpac_Reforge_Core.cfg
-  dest: config/Krumpac.Krumpac_Reforge_Core.cfg

@@ -1,0 +1,10 @@
+﻿PrintComment: ThisGoesHere overwrites configs with changes
+CopyFile:
+- From: config/overrides/Krumpac.Krumpac_Reforge_Core.cfg
+  To: config/Krumpac.Krumpac_Reforge_Core.cfg
+- From: config/overrides/spawn_that.world_spawners.Fishies.cfg
+  To: config/spawn_that.world_spawners.Fishies.cfg
+- From: config/overrides/spawn_that.world_spawners.Plants.cfg
+  To: config/spawn_that.world_spawners.Plants.cfg
+- From: config/overrides/spawn_that.world_spawners.Professions.cfg
+  To: config/spawn_that.world_spawners.Professions.cfg
