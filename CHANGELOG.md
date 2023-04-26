@@ -1,3 +1,4 @@
+* 1.0.11 -> finally replacing odin's crafty boxes with Azu's - good job, works fine now
 * 1.0.10 -> dependencies updated
 * 1.0.9 -> 
     * further improved cutting table capacity

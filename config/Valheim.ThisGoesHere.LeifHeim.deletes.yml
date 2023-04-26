@@ -9,4 +9,13 @@ DeleteFile:
 - config/Krumpac.Krumpac_Sacrificing_Altars.cfg
 - config/Krumpac.Krumpac_Tribe_Ornaments.cfg
 - config/Krumpac.Krumpac_Weapon_Arsenal.cfg
+# old files
 - config/Valheim.ThisGoesHere.LeifHeim.yml
+- config/spawn_that.world_spawners.Core.Plants.cfg
+# replaced mod config
+- config/odinplusqol.OdinsCraftyBoxes.cfg
+
+DeleteFolder:
+# replaced mod dll 
+- plugins/OdinPlus-OdinsCraftyBoxes
+
