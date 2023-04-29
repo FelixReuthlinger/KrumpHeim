@@ -1,3 +1,6 @@
+* 1.0.13 -> 
+    * added map details showing Krump's custom ships on map
+    * dependency update
 * 1.0.12 -> ok, Azu fails on empty yaml deserialization... added contents
 * 1.0.11 -> finally replacing odin's crafty boxes with Azu's - good job, works fine now
 * 1.0.10 -> dependencies updated
