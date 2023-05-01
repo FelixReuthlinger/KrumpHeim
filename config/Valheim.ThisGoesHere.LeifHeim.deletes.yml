@@ -1,7 +1,7 @@
 ﻿PrintComment: ThisGoesHere cleans up the Krumpac configs to let them be regenerated and delete outdated files and mods
 DeleteFile:
 - config/Datys.Datys_Professions.cfg
-- config/Krumpac_Praying_System.cfg
+#- config/Krumpac_Praying_System.cfg
 - config/Krumpac.Krumpac_Armors.cfg
 - config/Krumpac.Krumpac_Building_Pieces.cfg
 - config/Krumpac.Krumpac_Dungeon_Meadows.cfg

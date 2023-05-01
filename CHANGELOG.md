@@ -1,3 +1,10 @@
+* 1.1.0 -> 
+    * updates for Krumpac mods update
+    * added CLLC
+    * CLLC configured to medium (0 to 3 stars, no special things)
+    * adding CLLC yamls for vanilla Valheim
+    * dropped item drawers as not being nicely compatible with crafting from boxes
+    * increased default container sizes instead supporting item drawers
 * 1.0.13 -> 
     * added map details showing Krump's custom ships on map
     * dependency update
