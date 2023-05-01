@@ -12,10 +12,3 @@ DeleteFile:
 # old files
 - config/Valheim.ThisGoesHere.LeifHeim.yml
 - config/spawn_that.world_spawners.Core.Plants.cfg
-# replaced mod config
-- config/odinplusqol.OdinsCraftyBoxes.cfg
-
-DeleteFolder:
-# replaced mod dll 
-- plugins/OdinPlus-OdinsCraftyBoxes
-
