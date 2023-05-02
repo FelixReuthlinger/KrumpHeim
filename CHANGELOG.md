@@ -1,3 +1,6 @@
+* 1.1.2 ->
+    * let's try this better networking
+    * added cllc yamls for reforge
 * 1.1.1 -> 
     * removed player building display from map details config
     * removed outdated overrides files from older krumpac mods

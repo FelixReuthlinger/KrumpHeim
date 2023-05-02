@@ -1,0 +1,12 @@
+﻿groups:
+  Consumable_Comfort_Tweaks:
+  - Comfort_Potion_Blue
+  - Comfort_Potion_Red
+  - Comfort_Potion_Purple
+  Tool_RuneMagic:
+  - RuneFocus
+  Tool_PlanBuild:
+  - BlueprintRune
+  - PlanHammer
+  Utility_PlanBuild:
+  - PlanCrystal
