@@ -1,4 +1,4 @@
 ﻿PrintComment: ThisGoesHere overwrites configs with changes
-CopyFolderContent:
-- From: config/overrides/
-  To: config/
+CopyFile:
+- From: config/overrides/Krumpac_Praying_System.cfg
+  To: config/Krumpac_Praying_System.cfg
