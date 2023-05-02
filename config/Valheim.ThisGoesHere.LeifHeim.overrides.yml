@@ -2,3 +2,5 @@
 CopyFile:
 - From: config/overrides/Krumpac_Praying_System.cfg
   To: config/Krumpac_Praying_System.cfg
+- From: config/overrides/Krumpac.Krumpac_Building_Pieces.cfg
+  To: config/Krumpac.Krumpac_Building_Pieces.cfg
