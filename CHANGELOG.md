@@ -1,3 +1,6 @@
+* 1.1.3 -> 
+    * fix the fix, now correct building pieces file
+    * updated to latest reforge core version
 * 1.1.2 ->
     * let's try this better networking
     * added cllc yamls for reforge

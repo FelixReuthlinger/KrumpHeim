@@ -3,7 +3,7 @@ DeleteFile:
 - config/Datys.Datys_Professions.cfg
 #- config/Krumpac_Praying_System.cfg
 - config/Krumpac.Krumpac_Armors.cfg
-- config/Krumpac.Krumpac_Building_Pieces.cfg
+#- config/Krumpac.Krumpac_Building_Pieces.cfg
 - config/Krumpac.Krumpac_Dungeon_Meadows.cfg
 - config/Krumpac.Krumpac_Reforge_Core.cfg
 - config/Krumpac.Krumpac_Sacrificing_Altars.cfg
