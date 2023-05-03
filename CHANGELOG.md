@@ -1,3 +1,5 @@
+* 1.1.4 -> 
+    * updated dependencies
 * 1.1.3 -> 
     * fix the fix, now correct building pieces file
     * updated to latest reforge core version
