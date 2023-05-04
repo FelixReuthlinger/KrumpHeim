@@ -1,17 +1,4 @@
-﻿PrintComment: ThisGoesHere cleans up the Krumpac configs to let them be regenerated and delete outdated files and mods
+﻿PrintComment: ThisGoesHere cleans spawner configs to use LeifHeim ones
 DeleteFile:
-- config/Datys.Datys_Professions.cfg
-#- config/Krumpac_Praying_System.cfg
-- config/Krumpac.Krumpac_Armors.cfg
-#- config/Krumpac.Krumpac_Building_Pieces.cfg
-- config/Krumpac.Krumpac_Dungeon_Meadows.cfg
-- config/Krumpac.Krumpac_Reforge_Core.cfg
-- config/Krumpac.Krumpac_Sacrificing_Altars.cfg
-- config/Krumpac.Krumpac_Tribe_Ornaments.cfg
-- config/Krumpac.Krumpac_Weapon_Arsenal.cfg
-# old files
-- config/Valheim.ThisGoesHere.LeifHeim.yml
-- config/spawn_that.world_spawners.Core.Plants.cfg
-- config/spawn_that.world_spawners.Professions.cfg
 - config/spawn_that.world_spawners.Plants.cfg
 - config/spawn_that.world_spawners.Fishies.cfg

@@ -1,3 +1,7 @@
+* 1.1.5 ->
+    * fixed conversion size and speed config due to renaming issues
+    * adding server dev commands
+    * removed some config removal scripts, since reforge now include those and works fine
 * 1.1.4 -> 
     * updated dependencies
 * 1.1.3 -> 
