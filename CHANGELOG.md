@@ -1,4 +1,4 @@
-* 1.1.6 ->
+* 1.1.6 and .7 ->
     * updated dependencies
 * 1.1.5 ->
     * fixed conversion size and speed config due to renaming issues
