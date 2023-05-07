@@ -1,3 +1,6 @@
+* 1.1.9 ->
+    * increased the ranges, since bigger base range requires it
+    * increased fishies
 * 1.1.8 ->
     * fixes for conversion rates due to renaming issues
 * 1.1.6 and .7 ->
