@@ -1,3 +1,4 @@
+* 1.1.11 & 12 -> another fix for renamed crafting stations (again)
 * 1.1.10 ->
     * fixed conversion sizes for crafting stations (due to update issue)
     * added mod for extra stamina regen from foods
