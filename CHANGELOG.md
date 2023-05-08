@@ -1,3 +1,6 @@
+* 1.1.10 ->
+    * fixed conversion sizes for crafting stations (due to update issue)
+    * added mod for extra stamina regen from foods
 * 1.1.9 ->
     * increased the ranges, since bigger base range requires it
     * increased fishies
