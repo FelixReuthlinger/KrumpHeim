@@ -1,3 +1,6 @@
+* 1.1.14 ->
+    * increased difficulty for creatures and especially bosses
+    * dependency updates
 * 1.1.13 -> 
     * added some basic item configs for cllc to override some game settings
     * added professions spawners back to Leifheim
