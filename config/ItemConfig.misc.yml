@@ -5,8 +5,6 @@
   - Comfort_Potion_Purple
   Tool_RuneMagic:
   - RuneFocus
-  Tool_PlanBuild:
-  - BlueprintRune
-  - PlanHammer
-  Utility_PlanBuild:
-  - PlanCrystal
+
+Tool_RuneMagic:
+  loss: no

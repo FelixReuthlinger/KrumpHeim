@@ -1,3 +1,6 @@
+* 1.1.13 -> 
+    * added some basic item configs for cllc to override some game settings
+    * added professions spawners back to Leifheim
 * 1.1.11 & 12 -> another fix for renamed crafting stations (again)
 * 1.1.10 ->
     * fixed conversion sizes for crafting stations (due to update issue)

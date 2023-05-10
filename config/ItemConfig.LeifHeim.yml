@@ -1,0 +1,108 @@
+﻿groups:
+  AllKeys:
+  - Krump_Mat_Key_Neck_Cave
+  - Krump_Spawner_CryptKey
+  - Krump_Spawner_EikthyrKey
+  - Krump_Spawner_BoneMass_Key
+  - Krump_Map_Key_Loki
+  AddSwimming:
+  - TrophySerpent
+  - Krump_Mat_Daughters_Head
+  - Krump_Mat_Trophy_Nokken
+  RemoveSwimming:
+  - Krump_Mat_Chitin
+  - Krump_Mat_Chitin_Abyssal
+  Carcasses:
+  - D_Boar_Carcass
+  - D_Deer_Carcass
+
+all:
+  pickup: yes
+
+AddSwimming:
+  floating: yes
+
+RemoveSwimming:
+  floating: no
+
+AllKeys:
+  loss: no
+  stack: 20
+  weight: 0
+
+Carcasses:
+  weight: 5
+  stack: 10
+
+
+# Example ItemConfig.yml
+# Do not forget to turn the YAML file on in the settings.
+
+# Predefined groups:
+# all, ore, metal, food, potions, woods, trophy, boss trophy, valuable, seed, crop, stackable.
+# pants, chest, helmet, cape, armor.
+# axes, clubs, knives, pickaxes, polearms, spears, swords, bows, crossbows, weapon, arrows, bolts, ammo.
+# round shield, tower shield, shield.
+# special (fishing rod and megingjord), tool, equipment.
+
+# Things you can change: amount, weight, weight factor, stack, stack factor, pickup, floating, teleportable, loss.
+# Things you can configure per world level: amount, pickup, teleportable, loss.
+
+# Note: If you are using mods that create custom items / prefabs, you might need to add and configure them
+#       explicitly by creating your own groups for those. Predefined groups only contain Valheim's original
+#       items. 
+
+# Define your own groups here and assign items via display name (or the internal ID) to your groups.
+# Hint: If you want to find the internal ID of an item, you can look it up in the wiki.
+# https://valheim.fandom.com
+# For custom items, please refer to the documentation of the mod that adds them.
+#
+# groups:
+#   My Group:
+#      - Display Name
+#      - InternalID
+
+
+# Predefind group hierachy and contents:
+# all: (contains everything, will also apply changes to custom items/prefabs)
+#   stackable:
+#     ore: CopperOre, TinOre, IronScrap, SilverOre, BlackMetalScrap, FlametalOre
+#     metal: Copper, Tin, Bronze, Iron, Silver, BlackMetal, Flametal
+#     food: BloodPudding, Blueberries, Bread, Carrot, CarrotSoup, Cloudberry, FishCooked, CookedLoxMeat, CookedMeat, 
+#           SerpentMeatCooked, FishWraps, NeckTailGrilled, Honey, LoxPie, Mushroom, QueensJam, Raspberry, Sausages, 
+#           SerpentStew, TurnipStew, MushroomYellow
+#     potions: ...
+#     woods: Wood, FineWood, RoundLog, ElderBark
+#     trophy: TrophyBlob, TrophyBoar, TrophyDeathsquito, TrophyDeer, TrophyHatchling, TrophyDraugrElite, TrophyDraugr,
+#             TrophyDraugrFem, TrophyFenring, TrophyGoblinBrute, TrophyGoblinShaman, TrophyGoblin, TrophyGreydwarfBrute,
+#             TrophyGreydwarfShaman, TrophyGreydwarf, TrophyLeech, TrophyLox, TrophyNeck, TrophySkeletonPoison, 
+#             TrophySerpent, TrophySkeleton, TrophySGolem, TrophySurtling, TrophyForestTroll, TrophyFrostTroll,
+#             TrophyWolf, TrophyWraith
+#     boss trophy: TrophyEikthyr, TrophyTheElder, TrophyBonemass, TrophyDragonQueen, TrophyGoblinKing
+#     valuable: Amber, AmberPearl, Coins, Ruby, SilverNecklace
+#     seed: BeechSeeds, CarrotSeeds, FirCone, PineCone, TurnipSeeds
+#   equipment:
+#     armor: 
+#       pants: ArmorRagsLegs, ArmorLeatherLegs, ArmorTrollLeatherLegs, ArmorBronzeLegs, ArmorIronLegs, ArmorWolfLegs,
+#              ArmorPaddedGreaves
+#       chest: ArmorRagsChest, ArmorLeatherChest, ArmorTrollLeatherChest, ArmorBronzeChest, ArmorIronChest,
+#              ArmorWolfChest, ArmorPaddedCuirass
+#       helmet: HelmetLeather, HelmetTrollLeather, HelmetBronze, HelmetIron, HelmetDrake, HelmetPadded,
+#               HelmetDverger, HelmetYule, HelmetOdin
+#       cape: CapeDeerHide, CapeTrollHide, CapeWolf, CapeLinen, CapeLox
+#     weapon:
+#       clubs: Club, Torch, MaceBronze, MaceIron, MaceSilver, MaceNeedle, SledgeStagbreaker, SledgeIron
+#       knives: KnifeFlint, KnifeCopper, KnifeChitin, KnifeBlackMetal
+#       pickaxes: PickaxeAntler, PickaxeBronze, PickaxeIron
+#       polearms: AtgeirBronze, AtgeirIron, AtgeirBlackmetal
+#       spears: SpearFlint, SpearBronze, SpearElderbark, SpearWolfFang, SpearChitin
+#       swords: SwordBronze, SwordIron, SwordSilver, SwordBlackmetal
+#       bows: Bow, BowFineWood, BowHuntsman, BowDraugrFang
+#       arrows: ArrowWood, ArrowFire, ArrowFlint, ArrowBronze, ArrowIron, ArrowSilver, ArrowObsidian, ArrowPoison,
+#               ArrowFrost, ArrowNeedle
+#     shield:
+#       round shield: ShieldWood, ShieldBronzeBuckler, ShieldBanded, ShieldSilver, ShieldBlackmetal
+#       tower shield: ShieldWoodTower, ShieldIronTower, ShieldSerpentscale, ShieldBlackmetalTower
+#     special: BeltStrength, FishingRod
+#     tool: Hammer, Hoe, Cultivator
+#     
