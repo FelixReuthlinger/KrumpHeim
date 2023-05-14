@@ -1,3 +1,5 @@
+* 1.1.15 ->
+    * fixed respawning herbs
 * 1.1.14 ->
     * increased difficulty for creatures and especially bosses
     * dependency updates
