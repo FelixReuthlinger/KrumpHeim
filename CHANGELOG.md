@@ -1,3 +1,5 @@
+* 1.1.16 ->
+    * cllc bosses nerfed
 * 1.1.15 ->
     * fixed respawning herbs
 * 1.1.14 ->
