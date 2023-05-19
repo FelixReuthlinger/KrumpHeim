@@ -1,3 +1,8 @@
+* 1.2.0 ->
+    * updated to reforge core 1.7.8
+    * updated to professions 1.1.4
+* 1.1.17 -> 
+    * fixed some professions respawners
 * 1.1.16 ->
     * cllc bosses nerfed
 * 1.1.15 ->
