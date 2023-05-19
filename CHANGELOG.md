@@ -1,3 +1,4 @@
+* 1.2.1 -> fixed crafting station renamings (again and again and again... why? ;D)
 * 1.2.0 ->
     * updated to reforge core 1.7.8
     * updated to professions 1.1.4
