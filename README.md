@@ -39,6 +39,6 @@ is NOT affiliated with the autor and will just provide a couple of other mods (Q
 
 * https://github.com/FelixReuthlinger/LeifHeim
 * Discord: Flux#0062 (you can find me around some of the Valheim modding discords, too)
-</<details>>
+</details>
 
 

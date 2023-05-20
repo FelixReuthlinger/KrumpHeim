@@ -1,3 +1,7 @@
+* 1.2.2 -> 
+    * added loading screens
+    * updated dependencies
+    * decreased some spawners
 * 1.2.1 -> fixed crafting station renamings (again and again and again... why? ;D)
 * 1.2.0 ->
     * updated to reforge core 1.7.8
