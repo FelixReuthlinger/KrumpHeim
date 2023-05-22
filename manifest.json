@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack, BUT using PREMIUM-ONLY features - check readme!",
-  "version_number": "1.2.2",
+  "version_number": "1.2.3",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
@@ -22,7 +22,6 @@
     "Azumatt-ImFRIENDLY_DAMMIT-1.0.8",
     "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
     "Crystal-Pathfinder-2.0.7",
-    "CW_Jesse-BetterNetworking_Valheim-2.2.1",
     "FixItFelix-CLLC_vanilla_yamls-1.0.0",
     "FixItFelix-NoSkillDrain-1.1.1",
     "FixItFelix-RegenerativeNature-2.0.2",
@@ -51,6 +50,7 @@
     "Smoothbrain-InstantEquip-1.0.5",
     "Smoothbrain-Lumberjacking-1.0.3",
     "Smoothbrain-Mining-1.1.3",
+    "Smoothbrain-Network-1.0.1",
     "Smoothbrain-PackHorse-1.0.2",
     "Smoothbrain-PassivePowers-1.0.9",
     "Smoothbrain-Ranching-1.1.1",

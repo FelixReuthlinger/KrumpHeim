@@ -1,3 +1,7 @@
+* 1.2.3 -> 
+    * again tweaked spawners down a bit for treasures
+    * replaced networking improvement mod (since old one seems to cause issues some times)
+        * added script to remove the old one automatically
 * 1.2.2 -> 
     * added loading screens
     * updated dependencies
