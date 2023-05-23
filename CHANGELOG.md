@@ -1,3 +1,5 @@
+* 1.3.0 ->
+    * updated to new reforge 1.7.9 and others
 * 1.2.3 -> 
     * again tweaked spawners down a bit for treasures
     * replaced networking improvement mod (since old one seems to cause issues some times)
