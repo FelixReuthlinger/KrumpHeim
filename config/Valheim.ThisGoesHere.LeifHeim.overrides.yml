@@ -1,3 +1,4 @@
-﻿PrintComment: ThisGoesHere overwrites configs with changes
+﻿PrintComment: ThisGoesHere overwrites configs with LeifHeim changes
 CopyFile:
-# not required
+- From: config/overrides/Krumpac_Praying_System-Leifheim.cfg
+  To: config/Krumpac_Praying_System.cfg

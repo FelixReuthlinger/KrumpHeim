@@ -1,3 +1,4 @@
+* 1.3.2 -> added custom praying config
 * 1.3.1 -> added reconfiguration for the reforge plants
 * 1.3.0 ->
     * updated to new reforge 1.7.9 and others
