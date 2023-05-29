@@ -1,7 +1,8 @@
 ﻿PrintComment: ThisGoesHere cleans spawner configs to use LeifHeim ones
 DeleteFile:
-- config/spawn_that.world_spawners.Plants.cfg
-- config/spawn_that.world_spawners.Fishies.cfg
+- config/overrides/spawn_that.world_spawners.Fishies.cfg
+- config/overrides/spawn_that.world_spawners.LeifHeim.Respawn.Professions.cfg
+- config/overrides/spawn_that.world_spawners.Plants.cfg
 - config/CW_Jesse.BetterNetworking.cfg # replacement
 DeleteFolder:
 - plugins/CW_Jesse-BetterNetworking_Valheim # replacement
