@@ -1,3 +1,5 @@
+* 1.4.0 -> 
+    * updated to the latest closed BETA community release of Reforge (requires )
 * 1.3.3 -> 
     * updated dependencies
     * removed overriding spawners, moved those to another mod pack to make re-usable more widely
