@@ -25,7 +25,7 @@ Answer: No, [Krumpac Reforged Core](https://valheim.thunderstore.io/package/Krum
   <summary>Attributions</summary>
 
 * Krumpac Modding 
-  * [Discord](https://discord.gg/nPjVa5UW) 
+  * [Discord](https://discord.gg/a59BjXVK) 
   * [Thunderstore](https://valheim.thunderstore.io/package/Krumpac/)
   * [Youtube](https://www.youtube.com/channel/UCfmO96HfG6ko87ZHlalTcuA)
 * Diving mod (.dll included)

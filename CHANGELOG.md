@@ -1,3 +1,5 @@
+* 1.4.1 ->
+    * fixed outdated discord link to Krumpac's 
 * 1.4.0 -> 
     * updated to the latest closed BETA community release of Reforge (requires )
 * 1.3.3 -> 
