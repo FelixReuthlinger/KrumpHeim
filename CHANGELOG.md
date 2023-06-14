@@ -1,3 +1,5 @@
+* 1.5.0 -> 
+    * updated dependencies for Valheim version 0.216.9
 * 1.4.1 ->
     * fixed outdated discord link to Krumpac's 
     * updated dependencies
