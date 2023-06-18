@@ -1,3 +1,6 @@
+* 1.5.2 ->
+    * added my own new way of dynamically changing the discovery radius
+    * dependency updates
 * 1.5.0 & .1 -> 
     * updated dependencies for Valheim version 0.216.9
 * 1.4.1 ->
