@@ -429,8 +429,62 @@ reforge_treasures:
       iconName: treasure
       isPermanent: false
       isActive: true
-      groupable: true
-      groupingDistance: 15
+    dfoodtreasuremeadows:
+      categoryName: reforge_treasures
+      internalName: dfoodtreasuremeadows
+      name: Food
+      iconName: treasure
+      isPermanent: false
+      isActive: true
+    krumpspawnertreasuremeadows:
+      categoryName: reforge_treasures
+      internalName: krumpspawnertreasuremeadows
+      name: Meadows
+      iconName: treasure
+      isPermanent: false
+      isActive: true
+    krumpspawnertreasuremeadowsdungeon:
+      categoryName: reforge_treasures
+      internalName: krumpspawnertreasuremeadowsdungeon
+      name: Meadows
+      iconName: treasure
+      isPermanent: false
+      isActive: true
+    dfoodtreasureblackforest:
+      categoryName: reforge_treasures
+      internalName: dfoodtreasureblackforest
+      name: Food
+      iconName: treasure
+      isPermanent: false
+      isActive: true
+    krumpspawnertreasureblackforest:
+      categoryName: reforge_treasures
+      internalName: krumpspawnertreasureblackforest
+      name: Black Forest
+      iconName: treasure
+      isPermanent: false
+      isActive: true
+    krumpspawnertreasureswamps:
+      categoryName: reforge_treasures
+      internalName: krumpspawnertreasureswamps
+      name: Swamps
+      iconName: treasure
+      isPermanent: false
+      isActive: true
+    krumpspawnerpickabletreasureocean:
+      categoryName: reforge_treasures
+      internalName: krumpspawnerpickabletreasureocean
+      name: Ocean
+      iconName: treasure
+      isPermanent: false
+      isActive: true
+    krumpspawnertreasureplains:
+      categoryName: reforge_treasures
+      internalName: krumpspawnertreasureplains
+      name: Plains
+      iconName: treasure
+      isPermanent: false
+      isActive: true
 reforge_misc:
   categoryActive: false
   pins:
