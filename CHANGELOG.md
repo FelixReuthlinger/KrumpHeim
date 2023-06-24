@@ -1,3 +1,5 @@
+* 1.5.3 ->
+    * replaced auto map pins mod
 * 1.5.2 ->
     * added my own new way of dynamically changing the discovery radius
     * dependency updates

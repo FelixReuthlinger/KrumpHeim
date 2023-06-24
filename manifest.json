@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack which REQUIRES REGISTRATION - check readme!",
-  "version_number": "1.5.2",
+  "version_number": "1.5.3",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
@@ -21,6 +21,7 @@
     "Azumatt-DeezServerSyncBalls-1.0.1",
     "Azumatt-ImFRIENDLY_DAMMIT-1.0.8",
     "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
+    "FixItFelix-AutoMapPins-1.0.0",
     "FixItFelix-CLLC_vanilla_yamls-1.0.1",
     "FixItFelix-DiscoveryRadius-1.0.1",
     "FixItFelix-Krumpac_Reforge_Reconfigure_Plants-1.1.1",
@@ -31,7 +32,6 @@
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.0",
     "hyleanlegend-Rune_Magic-1.1.20",
     "JereKuusela-Server_devcommands-1.52.0",
-    "Kempeth-AutoMapPins-1.3.0",
     "Korppis-ReliableBlock-1.0.0",
     "Krumpac-Krumpac_Reforge_Core-1.8.2",
     "MSchmoecker-MultiUserChest-0.5.1",
@@ -54,7 +54,7 @@
     "Smoothbrain-Ranching-1.1.2",
     "Smoothbrain-Sailing-1.1.6",
     "Smoothbrain-SailingSpeed-1.0.2",
-    "Smoothbrain-ServerCharacters-1.4.4",
+    "Smoothbrain-ServerCharacters-1.4.5",
     "Smoothbrain-StaminaRegenerationFromFood-1.5.3",
     "Smoothbrain-SteadyRegeneration-1.0.1",
     "Smoothbrain-TargetPortal-1.1.8",
