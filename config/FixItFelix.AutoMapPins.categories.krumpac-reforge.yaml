@@ -12,7 +12,7 @@ reforge_locations:
       categoryName: reforge_locations
       internalName: krumplococeanshipwreck
       name: Ship wrecks
-      iconName: monument
+      iconName: bones
       isPermanent: true
       isActive: true
     krumpspawnerleviathanfloatingisland:
@@ -27,6 +27,13 @@ reforge_locations:
       internalName: krumplocmountainstatue
       name: Statue
       iconName: monument
+      isPermanent: true
+      isActive: true
+    krumplococeanremains:
+      categoryName: reforge_locations
+      internalName: krumplococeanremains
+      name: Remains
+      iconName: bones
       isPermanent: true
       isActive: true
 reforge_herbs:
@@ -412,27 +419,6 @@ reforge_dungeons:
       iconName: dungeon
       isPermanent: true
       isActive: true
-reforge_misc:
-  categoryActive: false
-  pins:
-    krumprockmountain:
-      categoryName: n_a
-      internalName: krumprockmountain
-      name: n_a
-      iconName: n_a
-      isPermanent: false
-      isActive: false
-      groupable: false
-      groupingDistance: 15
-    krumprockmountainsmall:
-      categoryName: n_a
-      internalName: krumprockmountainsmall
-      name: n_a
-      iconName: n_a
-      isPermanent: false
-      isActive: false
-      groupable: false
-      groupingDistance: 15
 reforge_treasures:
   categoryActive: true
   pins:
@@ -445,21 +431,25 @@ reforge_treasures:
       isActive: true
       groupable: true
       groupingDistance: 15
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+reforge_misc:
+  categoryActive: false
+  pins:
+    krumprockmountain:
+      categoryName: reforge_misc
+      internalName: krumprockmountain
+      name: n_a
+      iconName: n_a
+      isPermanent: false
+      isActive: false
+      groupable: false
+      groupingDistance: 15
+    krumprockmountainsmall:
+      categoryName: reforge_misc
+      internalName: krumprockmountainsmall
+      name: n_a
+      iconName: n_a
+      isPermanent: false
+      isActive: false
+      groupable: false
+      groupingDistance: 15
 
