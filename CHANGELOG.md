@@ -1,3 +1,4 @@
+* 1.5.6 -> using smaller icons for map pins
 * 1.5.5 -> updated version and fixed drying station renaming
 * 1.5.3 & .4 ->
     * replaced auto map pins mod

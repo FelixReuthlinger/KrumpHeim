@@ -334,7 +334,7 @@ reforge_seeds:
       categoryName: reforge_seeds
       internalName: dpickableseedpotato
       name: Potatoe
-      iconName: seed
+      iconName: seed48
       isPermanent: false
       isActive: true
       groupable: true
@@ -343,7 +343,7 @@ reforge_seeds:
       categoryName: reforge_seeds
       internalName: dpickableseedturnip
       name: Turnip
-      iconName: seed
+      iconName: seed48
       isPermanent: false
       isActive: true
       groupable: true
@@ -352,7 +352,7 @@ reforge_seeds:
       categoryName: reforge_seeds
       internalName: dpumpkinsapling
       name: Pumpkin
-      iconName: seed
+      iconName: seed48
       isPermanent: false
       isActive: false
       groupable: true
