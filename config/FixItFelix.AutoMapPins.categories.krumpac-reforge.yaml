@@ -1,0 +1,465 @@
+reforge_locations:
+  categoryActive: true
+  pins:
+    krumplocmaedowsstatueboar:
+      categoryName: reforge_locations
+      internalName: krumplocmaedowsstatueboar
+      name: Hildesvini statue
+      iconName: monument
+      isPermanent: true
+      isActive: true
+    krumplococeanshipwreck:
+      categoryName: reforge_locations
+      internalName: krumplococeanshipwreck
+      name: Ship wrecks
+      iconName: monument
+      isPermanent: true
+      isActive: true
+    krumpspawnerleviathanfloatingisland:
+      categoryName: reforge_locations
+      internalName: krumpspawnerleviathanfloatingisland
+      name: Leviathan
+      iconName: island
+      isPermanent: false
+      isActive: true
+    krumplocmountainstatue:
+      categoryName: reforge_locations
+      internalName: krumplocmountainstatue
+      name: Statue
+      iconName: monument
+      isPermanent: true
+      isActive: true
+reforge_herbs:
+  categoryActive: true
+  pins:
+    dpickabledandelion:
+      categoryName: reforge_herbs
+      internalName: dpickabledandelion
+      name: Dandelion
+      iconName: herb48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    dchervilherb:
+      categoryName: reforge_herbs
+      internalName: dchervilherb
+      name: Chervil
+      iconName: herb48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    dchivesherb:
+      categoryName: reforge_herbs
+      internalName: dchivesherb
+      name: Chives
+      iconName: herb48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    drosemaryherb:
+      categoryName: reforge_herbs
+      internalName: drosemaryherb
+      name: Rosemary
+      iconName: herb48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    dlevanderherb:
+      categoryName: reforge_herbs
+      internalName: dlevanderherb
+      name: Lavender
+      iconName: herb48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    drosemarysapling:
+      categoryName: reforge_herbs
+      internalName: drosemarysapling
+      name: Rosemary
+      iconName: herb48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    derigeronherb:
+      categoryName: reforge_herbs
+      internalName: derigeronherb
+      name: Erigeron
+      iconName: herb48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    dcatharanthusherb:
+      categoryName: reforge_herbs
+      internalName: dcatharanthusherb
+      name: Catharanthus
+      iconName: herb48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+reforge_bushes:
+  categoryActive: true
+  pins:
+    draspberrybush:
+      categoryName: reforge_bushes
+      internalName: draspberrybush
+      name: Raspberry
+      iconName: berry48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    dblueberrybush:
+      categoryName: reforge_bushes
+      internalName: dblueberrybush
+      name: Blueberry
+      iconName: berry48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    krumpplantcottonbush:
+      categoryName: reforge_bushes
+      internalName: krumpplantcottonbush
+      name: Cotton
+      iconName: hand48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    dblackberrybush:
+      categoryName: reforge_bushes
+      internalName: dblackberrybush
+      name: Blackberry
+      iconName: berry48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+reforge_mushrooms:
+  categoryActive: true
+  pins:
+    dpickablemushroom:
+      categoryName: reforge_mushrooms
+      internalName: dpickablemushroom
+      name: Mushroom
+      iconName: mushroom48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    dpickableswampmushroom:
+      categoryName: reforge_mushrooms
+      internalName: dpickableswampmushroom
+      name: Green
+      iconName: mushroom48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+reforge_harvestable_trees:
+  categoryActive: true
+  pins:
+    dsmallappletree:
+      categoryName: reforge_harvestable_trees
+      internalName: dsmallappletree
+      name: Apple
+      iconName: tree48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    dsmallwalnuttree:
+      categoryName: reforge_harvestable_trees
+      internalName: dsmallwalnuttree
+      name: Walnut
+      iconName: tree48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    dsmallorangetree:
+      categoryName: reforge_harvestable_trees
+      internalName: dsmallorangetree
+      name: Orange
+      iconName: tree48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    dsmallplumtree:
+      categoryName: reforge_harvestable_trees
+      internalName: dsmallplumtree
+      name: Plum
+      iconName: tree48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+reforge_harvestable_materials:
+  categoryActive: true
+  pins:
+    krumpspawnerpickablehays:
+      categoryName: reforge_harvestable_materials
+      internalName: krumpspawnerpickablehays
+      name: Hays
+      iconName: hand48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    krumpspawnerpickablestickswood:
+      categoryName: reforge_harvestable_materials
+      internalName: krumpspawnerpickablestickswood
+      name: Wood sticks
+      iconName: hand48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    krumpspawnerpickablelyditfragments:
+      categoryName: reforge_harvestable_materials
+      internalName: krumpspawnerpickablelyditfragments
+      name: Lydit
+      iconName: hand48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    krumpspawnerpickablebranch:
+      categoryName: reforge_harvestable_materials
+      internalName: krumpspawnerpickablebranch
+      name: Branch
+      iconName: hand48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    krumpspawnerdestroyableurchin:
+      categoryName: reforge_harvestable_materials
+      internalName: krumpspawnerdestroyableurchin
+      name: Urchin
+      iconName: hand48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    krumpspawnerpickableoceanchitin:
+      categoryName: reforge_harvestable_materials
+      internalName: krumpspawnerpickableoceanchitin
+      name: Chitin
+      iconName: hand48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    krumpplantjutesapling:
+      categoryName: reforge_harvestable_materials
+      internalName: krumpplantjutesapling
+      name: Jute
+      iconName: hand48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+reforge_ores:
+  categoryActive: true
+  pins:
+    krumptreeancienttreesaphangingsmall:
+      categoryName: reforge_harvestable_materials
+      internalName: krumptreeancienttreesaphangingsmall
+      name: Sap
+      iconName: mine
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    krumptreeancienttreesaphanging:
+      categoryName: reforge_harvestable_materials
+      internalName: krumptreeancienttreesaphanging
+      name: Sap
+      iconName: mine
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+reforge_animals:
+  categoryActive: false
+  pins:
+    krumpfishcrab:
+      categoryName: reforge_animals
+      internalName: krumpfishcrab
+      name: Crab
+      iconName: n_a
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    krumpfish:
+      categoryName: reforge_animals
+      internalName: krumpfish
+      name: Fish
+      iconName: n_a
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    krumpfishwhale:
+      categoryName: reforge_animals
+      internalName: krumpfishwhale
+      name: Whale
+      iconName: whale48
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+reforge_seeds:
+  categoryActive: true
+  pins:
+    dpickableseedpotato:
+      categoryName: reforge_seeds
+      internalName: dpickableseedpotato
+      name: Potatoe
+      iconName: seed
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    dpickableseedturnip:
+      categoryName: reforge_seeds
+      internalName: dpickableseedturnip
+      name: Turnip
+      iconName: seed
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+    dpumpkinsapling:
+      categoryName: reforge_seeds
+      internalName: dpumpkinsapling
+      name: Pumpkin
+      iconName: seed
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+reforge_altars:
+  categoryActive: true
+  pins:
+    krumpaltarmeadowsbragi:
+      categoryName: reforge_altars
+      internalName: krumpaltarmeadowsbragi
+      name: Braggi
+      iconName: altar
+      isPermanent: true
+      isActive: true
+    krumpaltarmeadowsbaldur:
+      categoryName: reforge_altars
+      internalName: krumpaltarmeadowsbaldur
+      name: Baldur
+      iconName: altar
+      isPermanent: true
+      isActive: true
+    krumpaltarblackforestfreya:
+      categoryName: reforge_altars
+      internalName: krumpaltarblackforestfreya
+      name: Freya
+      iconName: altar
+      isPermanent: true
+      isActive: true
+    krumpaltarblackforestfreyr:
+      categoryName: reforge_altars
+      internalName: krumpaltarblackforestfreyr
+      name: Freyr
+      iconName: altar
+      isPermanent: true
+      isActive: true
+    krumpaltaroceannjord:
+      categoryName: reforge_altars
+      internalName: krumpaltaroceannjord
+      name: Njord
+      iconName: altar
+      isPermanent: true
+      isActive: true
+    krumpaltarswampsloki:
+      categoryName: reforge_altars
+      internalName: krumpaltarswampsloki
+      name: Loki
+      iconName: altar
+      isPermanent: true
+      isActive: true
+    krumpaltarplainstyr:
+      categoryName: reforge_altars
+      internalName: krumpaltarplainstyr
+      name: Tyr
+      iconName: altar
+      isPermanent: true
+      isActive: true
+reforge_dungeons:
+  categoryActive: true
+  pins:
+    krumpdungmeadowsneckcave:
+      categoryName: reforge_dungeons
+      internalName: krumpdungmeadowsneckcave
+      name: Nokken
+      iconName: dungeon
+      isPermanent: true
+      isActive: true
+reforge_misc:
+  categoryActive: false
+  pins:
+    krumprockmountain:
+      categoryName: n_a
+      internalName: krumprockmountain
+      name: n_a
+      iconName: n_a
+      isPermanent: false
+      isActive: false
+      groupable: false
+      groupingDistance: 15
+    krumprockmountainsmall:
+      categoryName: n_a
+      internalName: krumprockmountainsmall
+      name: n_a
+      iconName: n_a
+      isPermanent: false
+      isActive: false
+      groupable: false
+      groupingDistance: 15
+reforge_treasures:
+  categoryActive: true
+  pins:
+    dfoodtreasureswamp:
+      categoryName: reforge_treasures
+      internalName: dfoodtreasureswamp
+      name: Swamp
+      iconName: treasure
+      isPermanent: false
+      isActive: true
+      groupable: true
+      groupingDistance: 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
