@@ -217,9 +217,9 @@ reforge_harvestable_materials:
       categoryName: reforge_harvestable_materials
       internalName: krumpspawnerpickablehays
       name: Hays
-      iconName: hand48
+      iconName: hay48
       isPermanent: false
-      isActive: false
+      isActive: true
       groupable: true
       groupingDistance: 15
     krumpspawnerpickablestickswood:
@@ -357,56 +357,56 @@ reforge_seeds:
       isActive: false
       groupable: true
       groupingDistance: 15
-reforge_altars:
+reforge_temples:
   categoryActive: true
   pins:
     krumpaltarmeadowsbragi:
-      categoryName: reforge_altars
+      categoryName: reforge_temples
       internalName: krumpaltarmeadowsbragi
       name: Braggi
-      iconName: altar
+      iconName: temple
       isPermanent: true
       isActive: true
     krumpaltarmeadowsbaldur:
-      categoryName: reforge_altars
+      categoryName: reforge_temples
       internalName: krumpaltarmeadowsbaldur
       name: Baldur
-      iconName: altar
+      iconName: temple
       isPermanent: true
       isActive: true
     krumpaltarblackforestfreya:
-      categoryName: reforge_altars
+      categoryName: reforge_temples
       internalName: krumpaltarblackforestfreya
       name: Freya
-      iconName: altar
+      iconName: temple
       isPermanent: true
       isActive: true
     krumpaltarblackforestfreyr:
-      categoryName: reforge_altars
+      categoryName: reforge_temples
       internalName: krumpaltarblackforestfreyr
       name: Freyr
-      iconName: altar
+      iconName: temple
       isPermanent: true
       isActive: true
     krumpaltaroceannjord:
-      categoryName: reforge_altars
+      categoryName: reforge_temples
       internalName: krumpaltaroceannjord
       name: Njord
-      iconName: altar
+      iconName: temple
       isPermanent: true
       isActive: true
     krumpaltarswampsloki:
-      categoryName: reforge_altars
+      categoryName: reforge_temples
       internalName: krumpaltarswampsloki
       name: Loki
-      iconName: altar
+      iconName: temple
       isPermanent: true
       isActive: true
     krumpaltarplainstyr:
-      categoryName: reforge_altars
+      categoryName: reforge_temples
       internalName: krumpaltarplainstyr
       name: Tyr
-      iconName: altar
+      iconName: temple
       isPermanent: true
       isActive: true
 reforge_dungeons:

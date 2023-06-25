@@ -1,3 +1,4 @@
+* 1.5.8 -> fixed temple icon, added hay icon
 * 1.5.7 -> dependency update, added treasure pin configs
 * 1.5.6 -> using smaller icons for map pins
 * 1.5.5 -> updated version and fixed drying station renaming
