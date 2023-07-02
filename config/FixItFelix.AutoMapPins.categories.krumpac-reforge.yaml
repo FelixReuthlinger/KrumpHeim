@@ -48,6 +48,33 @@ reforge_herbs:
       isActive: false
       groupable: true
       groupingDistance: 15
+    dpickableqdandelion:
+      categoryName: reforge_herbs
+      internalName: dpickableqdandelion
+      name: Dandelion
+      iconName: herb48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    dqdandelionsapling:
+      categoryName: reforge_herbs
+      internalName: dqdandelionsapling
+      name: Dandelion
+      iconName: herb48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    ddandelionsapling:
+      categoryName: reforge_herbs
+      internalName: ddandelionsapling
+      name: Dandelion
+      iconName: herb48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
     dchervilherb:
       categoryName: reforge_herbs
       internalName: dchervilherb
@@ -162,6 +189,24 @@ reforge_mushrooms:
       isActive: false
       groupable: true
       groupingDistance: 15
+    dqmushroomsapling:
+      categoryName: reforge_mushrooms
+      internalName: dqmushroomsapling
+      name: Mushroom
+      iconName: mushroom48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    dmushroomsapling:
+      categoryName: reforge_mushrooms
+      internalName: dmushroomsapling
+      name: Mushroom
+      iconName: mushroom48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
     dpickableswampmushroom:
       categoryName: reforge_mushrooms
       internalName: dpickableswampmushroom
@@ -183,6 +228,15 @@ reforge_harvestable_trees:
       isActive: true
       groupable: true
       groupingDistance: 15
+    dappletree:
+      categoryName: reforge_harvestable_trees
+      internalName: dappletree
+      name: Apple
+      iconName: tree48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
     dsmallwalnuttree:
       categoryName: reforge_harvestable_trees
       internalName: dsmallwalnuttree
@@ -190,6 +244,15 @@ reforge_harvestable_trees:
       iconName: tree48
       isPermanent: false
       isActive: true
+      groupable: true
+      groupingDistance: 15
+    dwalnuttree:
+      categoryName: reforge_harvestable_trees
+      internalName: dwalnuttree
+      name: Walnut
+      iconName: tree48
+      isPermanent: false
+      isActive: false
       groupable: true
       groupingDistance: 15
     dsmallorangetree:
@@ -201,6 +264,15 @@ reforge_harvestable_trees:
       isActive: true
       groupable: true
       groupingDistance: 15
+    dorangetree:
+      categoryName: reforge_harvestable_trees
+      internalName: dorangetree
+      name: Orange
+      iconName: tree48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
     dsmallplumtree:
       categoryName: reforge_harvestable_trees
       internalName: dsmallplumtree
@@ -208,6 +280,15 @@ reforge_harvestable_trees:
       iconName: tree48
       isPermanent: false
       isActive: true
+      groupable: true
+      groupingDistance: 15
+    dplumtree:
+      categoryName: reforge_harvestable_trees
+      internalName: dplumtree
+      name: Plum
+      iconName: tree48
+      isPermanent: false
+      isActive: false
       groupable: true
       groupingDistance: 15
 reforge_harvestable_materials:
@@ -220,6 +301,24 @@ reforge_harvestable_materials:
       iconName: hay48
       isPermanent: false
       isActive: true
+      groupable: true
+      groupingDistance: 15
+    dpickablehay:
+      categoryName: reforge_harvestable_materials
+      internalName: dpickablehay
+      name: Hays
+      iconName: hay48
+      isPermanent: false
+      isActive: false
+      groupable: true
+      groupingDistance: 15
+    dhaysapling:
+      categoryName: reforge_harvestable_materials
+      internalName: dhaysapling
+      name: Hays
+      iconName: hay48
+      isPermanent: false
+      isActive: false
       groupable: true
       groupingDistance: 15
     krumpspawnerpickablestickswood:
@@ -506,4 +605,9 @@ reforge_misc:
       isActive: false
       groupable: false
       groupingDistance: 15
+
+
+
+
+
 

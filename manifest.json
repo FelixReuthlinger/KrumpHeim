@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack which REQUIRES REGISTRATION - check readme!",
-  "version_number": "1.5.8",
+  "version_number": "1.5.9",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
@@ -21,7 +21,7 @@
     "Azumatt-DeezServerSyncBalls-1.0.1",
     "Azumatt-ImFRIENDLY_DAMMIT-1.0.8",
     "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
-    "FixItFelix-AutoMapPins-1.1.1",
+    "FixItFelix-AutoMapPins-1.1.5",
     "FixItFelix-CLLC_vanilla_yamls-1.0.1",
     "FixItFelix-DiscoveryRadius-1.0.1",
     "FixItFelix-Krumpac_Reforge_Reconfigure_Plants-1.1.1",
@@ -62,7 +62,7 @@
     "Smoothbrain-Vitality-1.1.1",
     "thedefside-BetterUI_Reforged-2.4.3",
     "ASharpPen-Spawn_That-1.2.6",
-    "ValheimModding-Jotunn-2.12.1",
+    "ValheimModding-Jotunn-2.12.2",
     "denikson-BepInExPack_Valheim-5.4.2105"
   ]
 }

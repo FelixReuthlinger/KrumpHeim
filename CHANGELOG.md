@@ -1,3 +1,6 @@
+* 1.5.9 -> 
+    * added more missing pins for reforge
+    * updated dependencies
 * 1.5.8 -> fixed temple icon, added hay icon
 * 1.5.7 -> dependency update, added treasure pin configs
 * 1.5.6 -> using smaller icons for map pins
