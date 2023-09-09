@@ -1,3 +1,5 @@
+* 2.0.0 ->
+    * finally Hildir's Quest update for Reforged and this pack
 * 1.5.9 -> 
     * added more missing pins for reforge
     * updated dependencies

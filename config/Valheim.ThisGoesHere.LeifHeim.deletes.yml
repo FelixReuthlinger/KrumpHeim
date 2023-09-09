@@ -1,7 +1,7 @@
 ﻿PrintComment: ThisGoesHere cleans spawner configs to use LeifHeim ones
 DeleteFolder:
-- plugins/LVH-IT-UseEquipmentInWater # removal
-- plugins/FixItFelix-Diving_reposted # replacement
-- plugins/Smoothbrain-Resurrection # removal
-- plugins/Kempeth-AutoMapPins # removal
+- plugins/FixItFelix-ConfigurePlants # removed until updated
+- plugins/FixItFelix-Krumpac_Reforge_Reconfigure_Plants # removed until updated
+- plugins/FixItFelix-Krumpac_Reforge_Respawned # removed until updated
+- plugins/FixItFelix-RegenerativeNature # removed until updated
 
