@@ -1,3 +1,5 @@
+* 2.0.1 ->
+    * replaced the broken instant loot drops mod, since it crashed any console commands
 * 2.0.0 ->
     * finally Hildir's Quest update for Reforged and this pack
 * 1.5.9 -> 
