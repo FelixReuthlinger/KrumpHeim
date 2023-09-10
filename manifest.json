@@ -1,10 +1,10 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack which REQUIRES REGISTRATION - check readme!",
-  "version_number": "2.0.0",
+  "version_number": "2.0.1",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
-    "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
+    "aedenthornNexusMods-InstantMonsterLootDrop-0.5.0",
     "ASharpPen-This_Goes_Here-2.1.1",
     "Azumatt-AAA_Crafting-1.0.10",
     "Azumatt-AzuAreaRepair-1.1.2",
