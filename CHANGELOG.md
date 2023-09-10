@@ -1,3 +1,5 @@
+* 2.0.2 ->
+    * extracted the AutoMapPins config to its own mod and using it in here
 * 2.0.1 ->
     * replaced the broken instant loot drops mod, since it crashed any console commands
 * 2.0.0 ->
