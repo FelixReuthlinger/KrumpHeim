@@ -5,3 +5,4 @@ DeleteFolder:
 - plugins/FixItFelix-Krumpac_Reforge_Respawned # removed until updated
 - plugins/FixItFelix-RegenerativeNature # removed until updated
 - plugins/aedenthorn_mods-InstantMonsterLootDrop # removed, since not working, console commands will fail with this one
+- plugins/thedefside-BetterUI_Reforged # removed, since not working anymore, no updates

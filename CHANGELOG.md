@@ -1,3 +1,4 @@
+* 2.1.1 -> removed outdated better UI
 * 2.1.0 -> updated all dependencies and reforge 3.0.2
 * 2.0.2 ->
     * extracted the AutoMapPins config to its own mod and using it in here
