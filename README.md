@@ -37,7 +37,7 @@ Answer: No, [Krumpac Reforged Core](https://valheim.thunderstore.io/package/Krum
   <summary>Contact</summary>
 
 * https://github.com/FelixReuthlinger/LeifHeim
-* Discord: Flux#0062 (you can find me around some of the Valheim modding discords, too)
+* Discord: fluuxxx (you can find me around some of the Valheim modding discords, too)
 </details>
 
 

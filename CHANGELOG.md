@@ -1,3 +1,4 @@
+* 2.1.2 -> temporarily removed Rune Magic due to bad HTTP library reference causing issues on logout/quit
 * 2.1.1 -> removed outdated better UI
 * 2.1.0 -> updated all dependencies and reforge 3.0.2
 * 2.0.2 ->
