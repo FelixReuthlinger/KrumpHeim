@@ -6,4 +6,3 @@ DeleteFolder:
 - plugins/FixItFelix-RegenerativeNature # removed until updated
 - plugins/aedenthorn_mods-InstantMonsterLootDrop # removed, since not working, console commands will fail with this one
 - plugins/thedefside-BetterUI_Reforged # removed, since not working anymore, no updates
-- plugins/hyleanlegend-Rune_Magic # removed, since broken reference to http lib

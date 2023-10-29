@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack which REQUIRES REGISTRATION - check readme!",
-  "version_number": "2.1.4",
+  "version_number": "2.1.5",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "aedenthornNexusMods-InstantMonsterLootDrop-0.5.0",

@@ -1,3 +1,4 @@
+* 2.1.5 -> forgot to remove the delete part for rune magic, now it should work again
 * 2.1.4 -> 
     * turned off CLLC multiple boss trophies drop
     * added RuneMagic back after fixed
