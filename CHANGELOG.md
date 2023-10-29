@@ -1,3 +1,6 @@
+* 2.1.4 -> 
+    * turned off CLLC multiple boss trophies drop
+    * added RuneMagic back after fixed
 * 2.1.3 -> updated dependencies
 * 2.1.2 -> temporarily removed Rune Magic due to bad HTTP library reference causing issues on logout/quit
 * 2.1.1 -> removed outdated better UI
