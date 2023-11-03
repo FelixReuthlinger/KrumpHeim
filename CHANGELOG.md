@@ -1,3 +1,10 @@
+* 2.2.0 -> 
+    * removed "Farming" mod, since Datys Professions does now implement the farming skill
+    * removed also "Foraging" mod, since not that necessary and might be conflicting with Reforge farming skills
+    * removed blocking mod (long time no updates)
+    * removed some server-only mods (server characters, server dev commands, multi user chest)
+    * added Reforge UI mod as replacement for the deprecated better UI
+    * updated dependencies
 * 2.1.5 -> forgot to remove the delete part for rune magic, now it should work again
 * 2.1.4 -> 
     * turned off CLLC multiple boss trophies drop
