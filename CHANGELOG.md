@@ -1,3 +1,4 @@
+* 2.3.0 -> updated dependencies for latest Valheim version 0.217.30
 * 2.2.0 -> 
     * removed "Farming" mod, since Datys Professions does now implement the farming skill
     * removed also "Foraging" mod, since not that necessary and might be conflicting with Reforge farming skills
