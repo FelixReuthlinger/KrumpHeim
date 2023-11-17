@@ -6,4 +6,5 @@ DeleteFolder:
 - plugins/FixItFelix-RegenerativeNature # removed until updated
 - plugins/aedenthorn_mods-InstantMonsterLootDrop # removed, since not working, console commands will fail with this one
 - plugins/thedefside-BetterUI_Reforged # removed, since not working anymore, no updates
-- plusing/Smoothbrain-Farming # removed, since replaced by Datys Farming mod
+- plugins/Smoothbrain-Farming # removed, since replaced by Datys Farming mod
+- plugins/RandyKnapp-EquipmentAndQuickSlots # removed since using extended inv now + map settings to not drop items

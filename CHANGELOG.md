@@ -1,3 +1,6 @@
+* 2.3.1 -> 
+    * removed no skill drain and randy' eqas (since now skill and dropping equipment is available as valheim map options)
+    * using Azu player inv with quick slots and equipment slots now
 * 2.3.0 -> updated dependencies for latest Valheim version 0.217.30
 * 2.2.0 -> 
     * removed "Farming" mod, since Datys Professions does now implement the farming skill
