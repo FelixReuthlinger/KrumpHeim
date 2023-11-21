@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack which REQUIRES REGISTRATION - check readme!",
-  "version_number": "2.3.2",
+  "version_number": "2.3.3",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "aedenthornNexusMods-InstantMonsterLootDrop-0.5.0",
@@ -41,6 +41,7 @@
     "Smoothbrain-ConversionSizeAndSpeed-1.0.15",
     "Smoothbrain-CreatureLevelAndLootControl-4.5.17",
     "Smoothbrain-Evasion-1.0.3",
+    "Smoothbrain-Foraging-1.0.8",
     "Smoothbrain-InstantEquip-1.0.6",
     "Smoothbrain-Lumberjacking-1.0.5",
     "Smoothbrain-Mining-1.1.5",

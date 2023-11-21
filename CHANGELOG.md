@@ -1,3 +1,4 @@
+* 2.3.3 -> added foraging mod back
 * 2.3.2 -> added auto store by azu
 * 2.3.1 -> 
     * removed no skill drain and randy' eqas (since now skill and dropping equipment is available as valheim map options)
