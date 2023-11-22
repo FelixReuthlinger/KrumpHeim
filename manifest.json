@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack which REQUIRES REGISTRATION - check readme!",
-  "version_number": "2.3.3",
+  "version_number": "2.3.4",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "aedenthornNexusMods-InstantMonsterLootDrop-0.5.0",
@@ -35,7 +35,6 @@
     "Krumpac-Krumpac_Reforge_Translations-3.0.1",
     "MSchmoecker-VNEI-0.13.0",
     "Nextek-SpeedyPaths-1.0.8",
-    "RandyKnapp-EquipmentAndQuickSlots-2.1.12",
     "Smoothbrain-Building-1.2.5",
     "Smoothbrain-ComfortTweaks-3.2.10",
     "Smoothbrain-ConversionSizeAndSpeed-1.0.15",
