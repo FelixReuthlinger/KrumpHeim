@@ -1,3 +1,4 @@
+* 2.3.5 -> added stackability to new carcasses, removed praying system overrides due to upcoming release
 * 2.3.4 -> ops, I guess I forgot to remove randys eqas before
 * 2.3.3 -> added foraging mod back
 * 2.3.2 -> added auto store by azu

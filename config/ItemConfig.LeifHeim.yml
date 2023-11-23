@@ -15,6 +15,8 @@
   Carcasses:
   - D_Boar_Carcass
   - D_Deer_Carcass
+  - SerpentMeat
+  - D_Wolf_Carcass
 
 all:
   pickup: yes

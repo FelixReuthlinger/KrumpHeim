@@ -1,4 +1,0 @@
-﻿PrintComment: ThisGoesHere overwrites configs with LeifHeim changes
-CopyFile:
-- From: config/overrides/Krumpac_Praying_System-Leifheim.cfg
-  To: config/Krumpac_Praying_System.cfg
