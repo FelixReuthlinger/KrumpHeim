@@ -1,3 +1,4 @@
+* 2.3.7 -> better wood stacks, now all 500
 * 2.3.6 -> 
     * updated conversion size and speed config since long time again
     * updated dependencies to latest

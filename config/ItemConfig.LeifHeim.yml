@@ -17,6 +17,14 @@
   - D_Deer_Carcass
   - SerpentMeat
   - D_Wolf_Carcass
+  WoodStacks:
+  - Wood
+  - RoundLog
+  - FineWood
+  - Krump_Mat_Wood_Ancient_Bark
+  - Krump_Mat_Wood_Palm
+  - Krump_Mat_FineWood
+  - Krump_Mat_RoundLog
 
 all:
   pickup: yes
@@ -36,6 +44,8 @@ Carcasses:
   weight: 5
   stack: 10
 
+WoodStacks:
+  stack: 500
 
 # Example ItemConfig.yml
 # Do not forget to turn the YAML file on in the settings.
