@@ -1,3 +1,4 @@
+* 2.3.8 -> dropped CLLC from mod list, no need for this here imho
 * 2.3.7 -> better wood stacks, now all 500
 * 2.3.6 -> 
     * updated conversion size and speed config since long time again

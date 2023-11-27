@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack which REQUIRES REGISTRATION - check readme!",
-  "version_number": "2.3.7",
+  "version_number": "2.3.8",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "aedenthornNexusMods-InstantMonsterLootDrop-0.5.0",
@@ -24,7 +24,6 @@
     "Azumatt-Official_BepInEx_ConfigurationManager-18.0.1",
     "FixItFelix-AutoMapPins_Krumpac_Reforge-1.0.7",
     "FixItFelix-AutoMapPins-1.2.3",
-    "FixItFelix-CLLC_vanilla_yamls-1.0.1",
     "FixItFelix-DiscoveryRadius-1.0.4",
     "Goldenrevolver-Instantly_Destroy_Boats_And_Carts-1.0.4",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.5",
@@ -38,7 +37,6 @@
     "Smoothbrain-Building-1.2.5",
     "Smoothbrain-ComfortTweaks-3.2.10",
     "Smoothbrain-ConversionSizeAndSpeed-1.0.15",
-    "Smoothbrain-CreatureLevelAndLootControl-4.5.17",
     "Smoothbrain-Evasion-1.0.3",
     "Smoothbrain-Foraging-1.0.8",
     "Smoothbrain-InstantEquip-1.0.6",
