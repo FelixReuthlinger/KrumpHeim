@@ -1,0 +1,1451 @@
+Coins:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 1
+  MaxStackSize: 9999
+  ItemType: Material
+Krump_Mat_BoneFragments_Bloody:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_BoneFragments_Clean:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_BoneFragments_Powder:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Bucket_Empty:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Bucket_Water:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Charcoal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Chitin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Chitin_Abyssal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Coal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Coin_Pennings:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0
+  Value: 1
+  MaxStackSize: 9999
+  ItemType: Material
+Krump_Mat_Cotton:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Cotton_Raw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Feathers:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_FineWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Flint:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Glue:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Greydwarf_Pitch:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Greydwarfeye_Shaped:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.25
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Hay:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Hide_Boar:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Hide_Boar_Dried:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Hide_Deer:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Hide_Deer_Dried:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Hide_Eikthyr:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Hide_Eikthyr_Dried:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Hide_Lox:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Hide_Lox_Dried:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Hide_Troll_Dried:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Hide_Wolf_Dried:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Leather:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Leather_Scraps:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Leather_Strip:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.25
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Leather_Thick:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Leather_Troll:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Lydit_Fragments:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Lydit_Shaped:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Nails_Bone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Nails_Chitin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Needle_Bone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Needle_Chitin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Plank_AncientWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Plank_CoreWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Plank_FineWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Plank_PalmWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.25
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Plank_Wood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Resin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Rope:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.25
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Rope_Straw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.25
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_RoundLog:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Shovel_Bricks:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Shovel_Clay:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Shovel_Clay_Bricks_Unfired:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Shovel_Clay_Tile_Fired:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2.5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Shovel_Clay_Tile_Unfired:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2.5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Shovel_Coal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Shovel_Sandstone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Shovel_Snow:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.25
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Shovel_Stone_Shaped:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Sticks_Wood_01:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Stone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Straw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Straw_Bundle:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 25
+  ItemType: Material
+Krump_Mat_Sulfur:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 10
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Tar:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+
+Krump_Mat_Urchin_Thistle:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 200
+  ItemType: Material
+Krump_Mat_Wood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Wood_Ancient_Bark:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Wood_Palm:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Krump_Mat_Wool_Raw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+RoundLog:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Ruby:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 20
+  MaxStackSize: 200
+  ItemType: Material
+
+SilverNecklace:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 30
+  MaxStackSize: 200
+  ItemType: Material
+SurtlingCore:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Tar:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+Wood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
+CryptKey:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Misc
+D_ChickenEgg:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Misc
+DragonEgg:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 200
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Misc
+DvergrKey:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Misc
+GoblinTotem:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Misc
+Krump_Mat_Key_Loki:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Misc
+Krump_Mat_Key_Neck_Cave:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Misc
+Krump_Saddle_WarBoar:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+Krump_Spawner_BoneMass_Key:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Misc
+Krump_Spawner_CryptKey:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Misc
+Krump_Spawner_EikthyrKey:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Misc
+FishingBait:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+FishingBaitAshlands:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+FishingBaitCave:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+FishingBaitDeepNorth:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+FishingBaitForest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+FishingBaitMistlands:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+FishingBaitOcean:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+FishingBaitPlains:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+FishingBaitSwamp:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Bone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Bone_Fire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Bone_Fire_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Bone_Frozen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Bronze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Bronze_Fire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Bronze_Frozen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Chitin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+Krump_Mat_Arrow_Chitin_Fire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Chitin_Frozen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Copper:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Copper_Fire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Copper_Frozen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Iron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Iron_Fire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Iron_Frozen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Lydit:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Lydit_Fire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Lydit_Frozen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Silver:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Silver_Fire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Silver_Frozen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Steel:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Steel_Fire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Steel_Frozen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Wood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Wood_Fire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_Arrow_Wood_Frozen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+Krump_Mat_FishingBaits_Chicken:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_FishingBaits_Dragon:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_FishingBaits_Entrails:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_FishingBaits_Forest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_FishingBaits_NeckTails:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_FishingBaits_RawFish:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_FishingBaits_Vermin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Mat_FishingBaits_Wolf:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Ammo
+Krump_Wep_Torch:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Torch
+Krump_Bird_Eagle_Trophy_01:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Draugr:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Draugr_Elite:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Draugr_Fem:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fenring:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish01:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish02:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish03:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish04:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish05:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish06:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish07:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish08:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish09:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish10:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish11:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish12:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish13:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish14:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Fish15:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Leviathan:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 25
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Neck_Brute:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Nokken:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Shark01:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Skeleton_Bloody:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Skeleton_Clean:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.25
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Skeleton_Poison_Bloody:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Skeleton_Poison_Clean:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.25
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Turtle_01:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Whale:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 40
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+Krump_Mat_Trophy_Wolf:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyAbomination:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyBlob:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyBoar:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyBonemass:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyCultist:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyCultist_Hildir:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyDeathsquito:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyDeer:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyDragonQueen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyDvergr:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyEikthyr:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyFenring:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyForestTroll:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGjall:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGoblin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGoblinBrute:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGoblinBruteBrosBrute:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGoblinBruteBrosShaman:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGoblinKing:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGoblinShaman:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGreydwarf:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGreydwarfBrute:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGreydwarfShaman:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyGrowth:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyHare:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyHatchling:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyLeech:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyLox:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyNeck:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophySeeker:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophySeekerBrute:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophySeekerQueen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophySerpent:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 25
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophySGolem:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophySkeleton:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophySkeletonHildir:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophySkeletonPoison:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophySurtling:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyTheElder:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyTick:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyUlv:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyWolf:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy
+TrophyWraith:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Trophy

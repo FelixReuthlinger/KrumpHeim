@@ -1,0 +1,553 @@
+D_Levander_Sapling:
+  GrowTime: 2700
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Potato_Sapling:
+  GrowTime: 3000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Raspberry_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Dandelion_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_QSwampMushroom_Sapling:
+  GrowTime: 5000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Mistcap_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Sand_Mushroom_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_QRaspberry_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_YQMushroom_Sapling:
+  GrowTime: 5000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Beech_Sapling:
+  GrowTime: 3000
+  GrowRadius: 2
+  MinScale: 0.8
+  MaxScale: 1.5
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Wheat_Sapling:
+  GrowTime: 6000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Turnip_Sapling:
+  GrowTime: 3700
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_cabbage_Seed_Sapling:
+  GrowTime: 7000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Walnut_Sapling:
+  GrowTime: 6000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Hay_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Chives_Sapling:
+  GrowTime: 2500
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Turnip_Seed_Sapling:
+  GrowTime: 3700
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Oak_Sapling:
+  GrowTime: 6000
+  GrowRadius: 3
+  MinScale: 0.7
+  MaxScale: 0.9
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Plum_Sapling:
+  GrowTime: 7000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Cabbage_Sapling:
+  GrowTime: 7000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_QSandMushroom_Sapling:
+  GrowTime: 5000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_QMistcap_Sapling:
+  GrowTime: 5000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Cotton_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Barley_Sapling:
+  GrowTime: 6000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_smallOrange_Sapling:
+  GrowTime: 5000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Tomato_Sapling:
+  GrowTime: 4500
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Erigeron_Sapling:
+  GrowTime: 3000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Cucumber_Seed_Sapling:
+  GrowTime: 7000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Apple_Sapling:
+  GrowTime: 5000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_small_Walnut_Sapling:
+  GrowTime: 5000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Catharanthus_Seed_Sapling:
+  GrowTime: 3000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Onion_Seed_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Carrot_Seed_Sapling:
+  GrowTime: 3500
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Lemon_Sapling:
+  GrowTime: 8000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_QBlackberry_Sapling:
+  GrowTime: 6000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_SwampMushroom_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Frost_Mushroom_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_QDandelion_Sapling:
+  GrowTime: 5000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_QFrostMushroom_Sapling:
+  GrowTime: 5000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Cucumber_Sapling:
+  GrowTime: 7000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Pumpkin_Seed_Sapling:
+  GrowTime: 3700
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Blue_Grapes_Seed_sapling:
+  GrowTime: 7000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Rosemary_Sapling:
+  GrowTime: 2700
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Barley_Seed_Sapling:
+  GrowTime: 6000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Tomato_Seed_Sapling:
+  GrowTime: 4500
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Blueberry_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Rosemary_Seed_Sapling:
+  GrowTime: 2700
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Levander_Seed_Sapling:
+  GrowTime: 2700
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Birch_Sapling:
+  GrowTime: 5000
+  GrowRadius: 2
+  MinScale: 0.5
+  MaxScale: 1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_QMushroom_Sapling:
+  GrowTime: 5000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_small_Plum_Sapling:
+  GrowTime: 6000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_FirTree_Sapling:
+  GrowTime: 3000
+  GrowRadius: 2
+  MinScale: 1
+  MaxScale: 2.5
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Catharanthus_Sapling:
+  GrowTime: 3000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_YMushroom_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Onion_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Chervil_Seed_Sapling:
+  GrowTime: 2500
+  GrowRadius: 0.7
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Orange_Sapling:
+  GrowTime: 6000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_PineTree_Sapling:
+  GrowTime: 3000
+  GrowRadius: 2
+  MinScale: 1.5
+  MaxScale: 2.5
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Blue_Grapes_Sapling:
+  GrowTime: 7000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Pumpkin_Sapling:
+  GrowTime: 3700
+  GrowRadius: 0.5
+  MinScale: 0.8
+  MaxScale: 1.7
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Erigeron_Seed_Sapling:
+  GrowTime: 3000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Jute_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Corn_seed_sapling:
+  GrowTime: 6000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Chives_SeedSapling:
+  GrowTime: 2500
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Mushroom_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.3
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Blackberry_Sapling:
+  GrowTime: 5000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_smallLemon_Sapling:
+  GrowTime: 7000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_QBlueberry_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Potato_Seed_Sapling:
+  GrowTime: 3000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Wheat_Seed_Sapling:
+  GrowTime: 6000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Corn_Sapling:
+  GrowTime: 6000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_Chervil_Sapling:
+  GrowTime: 2500
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_small_Apple_Sapling:
+  GrowTime: 400
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Carrot_Sapling:
+  GrowTime: 3500
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+D_small_Cherry_Sapling:
+  GrowTime: 4000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+D_Cherry_Sapling:
+  GrowTime: 5000
+  GrowRadius: 2
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+Krump_Plant_Jute_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+Krump_Plant_Cotton_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+Krump_Plant_Wheat_Sapling:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
