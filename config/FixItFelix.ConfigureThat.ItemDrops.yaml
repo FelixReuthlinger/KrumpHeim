@@ -5,6 +5,27 @@ Coins:
   Value: 1
   MaxStackSize: 9999
   ItemType: Material
+Amber:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 5
+  MaxStackSize: 200
+  ItemType: Material
+AmberPearl:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 10
+  MaxStackSize: 200
+  ItemType: Material
+GreydwarfEye:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 500
+  ItemType: Material
 Krump_Mat_BoneFragments_Bloody:
   AutoPickup: true
   Teleportable: true

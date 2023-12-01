@@ -1,3 +1,4 @@
+* 2.4.1 -> more stacks configured
 * 2.4.0 -> configured some stacks and plants
 * 2.3.8 -> dropped CLLC from mod list, no need for this here imho
 * 2.3.7 -> better wood stacks, now all 500
