@@ -1,3 +1,4 @@
+* 2.5.1 -> updated dependencies
 * 2.5.0 -> 
     * updated for new Reforge version
     * removed some unnecessary mods and replaced the buggy conversion size and speed mod
