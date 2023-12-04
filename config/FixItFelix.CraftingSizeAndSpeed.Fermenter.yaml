@@ -1,0 +1,22 @@
+D_Honey_Extractor:
+  FermentationDuration: 600
+Krump_CS_Leather_Scrapper:
+  FermentationDuration: 2
+Krump_CS_Fermenter_Oil:
+  FermentationDuration: 300
+Krump_CS_Tannery_Skull_Crusher:
+  FermentationDuration: 2
+Krump_CS_Thrall_Gather_Hay:
+  FermentationDuration: 900
+Krump_CS_Thrall_FineWoodcutter:
+  FermentationDuration: 900
+Krump_CS_Thrall_CoreWoodcutter:
+  FermentationDuration: 900
+Krump_CS_Thrall_Oil:
+  FermentationDuration: 150
+Krump_CS_Thrall_Woodcutter:
+  FermentationDuration: 900
+Krump_CS_Thrall_Miner_Stones:
+  FermentationDuration: 900
+Krump_CS_Thrall_Gather_Clay:
+  FermentationDuration: 900

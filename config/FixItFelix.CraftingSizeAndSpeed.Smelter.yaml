@@ -1,0 +1,120 @@
+D_Alchemy_Cauldron:
+  MaxFuel: 50
+  MaxOre: 50
+  FuelPerProduct: 1
+  SecondsPerProduct: 5
+D_Garden_Potato:
+  MaxFuel: 50
+  MaxOre: 50
+  FuelPerProduct: 1
+  SecondsPerProduct: 400
+D_Mortar_and_Pestle:
+  MaxFuel: 0
+  MaxOre: 50
+  FuelPerProduct: 0
+  SecondsPerProduct: 2
+D_Fermenter2:
+  MaxFuel: 40
+  MaxOre: 20
+  FuelPerProduct: 1
+  SecondsPerProduct: 5
+D_Cutting_Table:
+  MaxFuel: 0
+  MaxOre: 100
+  FuelPerProduct: 0
+  SecondsPerProduct: 2
+D_Garden_Carrot:
+  MaxFuel: 50
+  MaxOre: 50
+  FuelPerProduct: 1
+  SecondsPerProduct: 400
+D_Fermenter:
+  MaxFuel: 40
+  MaxOre: 20
+  FuelPerProduct: 1
+  SecondsPerProduct: 5
+D_Chicken_Coop:
+  MaxFuel: 0
+  MaxOre: 20
+  FuelPerProduct: 0
+  SecondsPerProduct: 800
+D_Cutting_Table1:
+  MaxFuel: 0
+  MaxOre: 100
+  FuelPerProduct: 0
+  SecondsPerProduct: 2
+Krump_CS_Smelter:
+  MaxFuel: 200
+  MaxOre: 100
+  FuelPerProduct: 1
+  SecondsPerProduct: 15
+Krump_CS_Windmill:
+  MaxFuel: 0
+  MaxOre: 250
+  FuelPerProduct: 0
+  SecondsPerProduct: 5
+Krump_CS_Forge:
+  MaxFuel: 200
+  MaxOre: 100
+  FuelPerProduct: 1
+  SecondsPerProduct: 15
+Krump_CS_Fishing_Trap:
+  MaxFuel: 0
+  MaxOre: 120
+  FuelPerProduct: 0
+  SecondsPerProduct: 150
+Krump_CS_Crab_Trap:
+  MaxFuel: 0
+  MaxOre: 120
+  FuelPerProduct: 0
+  SecondsPerProduct: 150
+Krump_CS_Blasting_Furnance:
+  MaxFuel: 200
+  MaxOre: 100
+  FuelPerProduct: 1
+  SecondsPerProduct: 15
+Krump_CS_Spinning_Wheel:
+  MaxFuel: 0
+  MaxOre: 100
+  FuelPerProduct: 1
+  SecondsPerProduct: 10
+Krump_CS_FletchersTable_Arrows_Tar:
+  MaxFuel: 100
+  MaxOre: 50
+  FuelPerProduct: 1
+  SecondsPerProduct: 2
+Krump_CS_DryingStation:
+  MaxFuel: 0
+  MaxOre: 200
+  FuelPerProduct: 0
+  SecondsPerProduct: 10
+Krump_CS_Charcoal_Kiln:
+  MaxFuel: 0
+  MaxOre: 200
+  FuelPerProduct: 0
+  SecondsPerProduct: 5
+Krump_CS_Cooling_Metals:
+  MaxFuel: 50
+  MaxOre: 50
+  FuelPerProduct: 1
+  SecondsPerProduct: 5
+Krump_CS_Tribe_Raven:
+  MaxFuel: 0
+  MaxOre: 50
+  FuelPerProduct: 0
+  SecondsPerProduct: 10
+Krump_CS_FletchersTable_Arrows_Freezer:
+  MaxFuel: 100
+  MaxOre: 50
+  FuelPerProduct: 1
+  SecondsPerProduct: 2
+Krump_CS_Tannery_Water_Well:
+  MaxFuel: 0
+  MaxOre: 200
+  FuelPerProduct: 1
+  SecondsPerProduct: 3
+Krump_CS_Blood_Broth:
+  MaxFuel: 200
+  MaxOre: 100
+  FuelPerProduct: 1
+  SecondsPerProduct: 15

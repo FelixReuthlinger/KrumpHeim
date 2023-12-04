@@ -1,0 +1,21 @@
+D_Roasting_Spit:
+  MaxFuel: 10
+  SecondsPerFuel: 5000
+D_Stone_Griddle:
+  MaxFuel: 10
+  SecondsPerFuel: 5000
+D_Big_Stone_Griddle:
+  MaxFuel: 10
+  SecondsPerFuel: 5000
+D_Oven:
+  MaxFuel: 20
+  SecondsPerFuel: 4000
+D_ABronze_Caouldron:
+  MaxFuel: 10
+  SecondsPerFuel: 5000
+D_Bronze_Caouldron:
+  MaxFuel: 10
+  SecondsPerFuel: 5000
+D_Bronze_HangCaouldron:
+  MaxFuel: 10
+  SecondsPerFuel: 5000

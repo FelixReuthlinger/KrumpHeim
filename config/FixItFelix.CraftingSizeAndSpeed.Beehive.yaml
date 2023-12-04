@@ -1,0 +1,6 @@
+D_Water_Catcher:
+  MaxStorage: 15
+  SecondsPerUnit: 800
+D_Beehive:
+  MaxStorage: 10
+  SecondsPerUnit: 800
