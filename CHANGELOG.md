@@ -1,3 +1,4 @@
+* 2.5.2 -> stackable carcasses
 * 2.5.1 -> updated dependencies
 * 2.5.0 -> 
     * updated for new Reforge version

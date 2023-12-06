@@ -1470,3 +1470,32 @@ TrophyWraith:
   Value: 0
   MaxStackSize: 100
   ItemType: Trophy
+D_Boar_Carcass:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: TwoHandedWeapon
+D_Deer_Carcass:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: TwoHandedWeapon
+SerpentMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: TwoHandedWeapon
+D_Wolf_Carcass:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: TwoHandedWeapon
+  
