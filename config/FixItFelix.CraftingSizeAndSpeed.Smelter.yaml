@@ -74,7 +74,7 @@ Krump_CS_Blasting_Furnance:
   FuelPerProduct: 1
   SecondsPerProduct: 15
 Krump_CS_Spinning_Wheel:
-  MaxFuel: 0
+  MaxFuel: 100
   MaxOre: 100
   FuelPerProduct: 1
   SecondsPerProduct: 10
