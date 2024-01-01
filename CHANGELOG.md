@@ -1,3 +1,8 @@
+* 4.0.0 ->
+    * all the versions for reforge 4.0.0 updated
+    * removed some mods that will not work with reforge, since removed / replaced parts
+* 2.5.4 ->
+    * updated dependencies
 * 2.5.3 -> fixed spinning wheel config to also take spools
 * 2.5.2 -> stackable carcasses
 * 2.5.1 -> updated dependencies
