@@ -1,4 +1,4 @@
-* 5.0.0 ->
+* 5.0.0 & .1 ->
     * introducing reforge 5.0.0
     * dependency updates
 * 4.0.0 ->
