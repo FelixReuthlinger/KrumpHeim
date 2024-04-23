@@ -1,3 +1,6 @@
+* 5.0.0 ->
+    * introducing reforge 5.0.0
+    * dependency updates
 * 4.0.0 ->
     * all the versions for reforge 4.0.0 updated
     * removed some mods that will not work with reforge, since removed / replaced parts
