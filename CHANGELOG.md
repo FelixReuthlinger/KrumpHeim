@@ -1,3 +1,4 @@
+* 5.0.2 -> dropped the defective instant drop mod
 * 5.0.0 & .1 ->
     * introducing reforge 5.0.0
     * dependency updates
