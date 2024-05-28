@@ -1,3 +1,4 @@
+* 6.0.2 -> updated missing dependencies
 * 6.0.1 -> changed to azu's config manager
 * 6.0.0 -> updated for Reforge 6.0
 * 5.0.2 -> dropped the defective instant drop mod
