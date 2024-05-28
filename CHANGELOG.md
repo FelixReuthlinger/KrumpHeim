@@ -1,3 +1,4 @@
+* 6.0.0 -> updated for Reforge 6.0
 * 5.0.2 -> dropped the defective instant drop mod
 * 5.0.0 & .1 ->
     * introducing reforge 5.0.0
