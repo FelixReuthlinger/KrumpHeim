@@ -8,3 +8,5 @@ DeleteFolder:
 - plugins/thedefside-BetterUI_Reforged # removed, since not working anymore, no updates
 - plugins/Smoothbrain-Farming # removed, since replaced by Datys Farming mod
 - plugins/RandyKnapp-EquipmentAndQuickSlots # removed since using extended inv now + map settings to not drop items
+- plugins/Smoothbrain-ComfortTweaks # removed since mod is broken in terms of rested damage with old configs
+- Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock # removing mod since replacement active now

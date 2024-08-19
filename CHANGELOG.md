@@ -1,3 +1,9 @@
+* 6.2.0 ->
+    * removed a lot of dependencies here, since many moved to reforge modpack
+    * removed quick stack, ... mod, since now easy to replace by vanilla and autostore mod
+* 6.1.0 -> 
+    * removed ComfortTweaks, since it has broken rested buff damage (and config file generation is crap)
+    * updated dependencies for Reforge 6.1.x
 * 6.0.2 -> updated missing dependencies
 * 6.0.1 -> changed to azu's config manager
 * 6.0.0 -> updated for Reforge 6.0
