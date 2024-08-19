@@ -1,4 +1,4 @@
-* 6.2.0 ->
+* 6.2.0 & 6.2.1 ->
     * removed a lot of dependencies here, since many moved to reforge modpack
     * removed quick stack, ... mod, since now easy to replace by vanilla and autostore mod
 * 6.1.0 -> 

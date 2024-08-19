@@ -1,7 +1,7 @@
 {
   "name": "LeifHeim",
   "description": "Mod pack based on famous Krumpac Reforged mod pack which REQUIRES REGISTRATION - check readme!",
-  "version_number": "6.2.0",
+  "version_number": "6.2.1",
   "website_url": "https://github.com/FelixReuthlinger/LeifHeim",
   "dependencies": [
     "Azumatt-DeathPinRemoval-1.0.5",
